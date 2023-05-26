@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(18, 18, 62);
+    height: 80px;
+}
+
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 23px 0;
+}
+
+.firstsection>div {
+    width: 30%;
+    margin: 80px 0;
+}
+
+#myp12:hover {
+    color: cyan;
+}
+
+#myh3 {
+    font-size: 3rem;
+    color: rgb(174, 243, 13);
+}
+
+#myh3:hover {
+    font-size: 3rem;
+    color: rgb(248, 38, 83);
+    font-size: 3.5rem;
+}
+
+.left {
+    font-style: italic;
+    font-size: 2rem;
+}
+
+
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 23px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: rgb(250, 68, 68);
+    font-size: 1.09rem;
+}
+
+#element {
+    color: rgb(170, 107, 228);
+}
+
+#element:hover {
+    color: rgb(240, 100, 100);
+}
+
+.left:hover {
+    color: rgb(255, 22, 177);
+    font-style: italic;
+    font-size: 2rem;
+}
+
+#myp12 {
+    margin-top: 20px;
+}
+
+#mym1 {
+    color: rgb(170, 107, 228);
+    font-size: 3rem;
+    margin-top: 1000px;
+    margin-left: 400px;
+}
+
+.myclass {
+    height: 80px;
+}
+
+.pro {
+    color: rgb(255, 43, 43);
+    font-size: 5vw;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style-type: none;
+    margin: 0 23px;
+}
+
+body {
+    background-color: rgb(0, 0, 33);
+    color: white;
+    font-family: 'Times New Roman';
+}
+
+.pro:hover{
+    color: aqua;
+    font-style: italic;
+}

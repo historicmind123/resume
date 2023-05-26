@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(18, 18, 62);
+  height: 80px;
+}
+
+#mymm1:hover {
+  color: rgb(250, 68, 68);
+}
+
+.left {
+  font-style: italic;
+  font-size: 2rem;
+}
+
+.secondsection {
+  margin-bottom: 200px;
+}
+
+
+.firstsection {
+  display: flex;
+  justify-content: space-around;
+  margin: 23px 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+nav ul li a:hover {
+  color: rgb(250, 68, 68);
+  font-size: 1.09rem;
+}
+
+#element {
+  color: rgb(170, 107, 228);
+}
+
+#element:hover {
+  color: rgb(240, 100, 100);
+}
+
+.leftsection {
+  font-size: 3rem;
+}
+
+.purple {
+  color: rgb(170, 107, 228);
+}
+
+.left:hover {
+  color: rgb(255, 22, 177);
+  font-style: italic;
+  font-size: 2rem;
+}
+
+#yt:hover {
+  background-color: #fff;
+  color: black;
+  border-color: black;
+}
+
+#yt1:hover {
+  background-color: #fff;
+  color: black;
+  border-color: black;
+}
+
+#yt {
+  color: bisque;
+  font-size: 1.8vw;
+  text-decoration: none;
+  background-color: rgb(18, 18, 62);
+  font-style: italic;
+  outline: black;
+  border: 3px whitesmoke solid;
+  padding: 8px;
+  outline-color: rgb(243, 122, 122);
+  outline-width: 3px;
+  margin-left: 94px;
+  padding: 10px;
+  margin-bottom: 100px;
+}
+
+#yt1 {
+  color: bisque;
+  font-size: 1.8vw;
+  text-decoration: none;
+  background-color: rgb(18, 18, 62);
+  font-style: italic;
+  outline: black;
+  border: 3px whitesmoke solid;
+  padding: 8px;
+  outline-color: rgb(243, 122, 122);
+  outline-width: 3px;
+  margin-left: 12px;
+  padding: 10px;
+  margin-bottom: 100px;
+}
+
+#mymm1 {
+  color: rgb(170, 107, 228);
+}
+
+
+.purple:hover {
+  color: rgb(240, 100, 100);
+}
+
+
+.rightsection img {
+  width: 80%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  list-style-type: none;
+  margin: 0 23px;
+}
+
+body {
+  background-color: rgb(0, 0, 33);
+  color: white;
+  font-family: 'Times New Roman';
+}
